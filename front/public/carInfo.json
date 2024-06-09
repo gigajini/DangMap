@@ -1,0 +1,47 @@
+[
+    {
+        "REGINUMBER": "23사5678",
+        "OWNERNAME": "홍길동",
+        "data": {
+            "STATUS": "200",
+            "CARVENDER": "현대",
+            "CARNAME": "아이오닉5",
+            "CARYEAR": "2022",
+            "FUEL": "전기",
+            "PRICE": "45,000,000",
+            "CARURL": "https://i.namu.wiki/i/jtHL1UlemLBNJBcK0-oAeYYM5W5TYaYtPNcCSJGyoZfHk2TCKE6t2zHaUvaPAPqD2XSr3s2n8qCw7Dj4ICjp3g.webp",
+            "CHARGING_SPEED": "18분",
+            "CONNECTION": "DC콤보"
+        }
+    },
+    {
+        "REGINUMBER": "23사5679",
+        "OWNERNAME": "김길동",
+        "data": {
+            "STATUS": "200",
+            "CARVENDER": "기아",
+            "CARNAME": "EV6",
+            "CARYEAR": "2022",
+            "FUEL": "전기",
+            "PRICE": "50,000,000",
+            "CARURL": "https://autoimg.danawa.com/photo/4022/model_360.png",
+            "CHARGING_SPEED": "20분",
+            "CONNECTION": "DC콤보"
+        }
+    },
+    {
+        "REGINUMBER": "24가1234",
+        "OWNERNAME": "이순신",
+        "data": {
+            "STATUS": "200",
+            "CARVENDER": "테슬라",
+            "CARNAME": "모델3",
+            "CARYEAR": "2021",
+            "FUEL": "전기",
+            "PRICE": "60,000,000",
+            "CARURL": "https://www.tesla.com/ownersmanual/images/GUID-B5641257-9E85-404B-9667-4DA5FDF6D2E7-online-en-US.png",
+            "CHARGING_SPEED": "15분",
+            "CONNECTION": "테슬라 슈퍼차저"
+        }
+    }
+]
